@@ -1,4 +1,6 @@
-### Hi, I'm Zach. I like to code.
+### Hi, I'm Zach. 
+
+I like to code.
 
 I go to Northeastern University in Boston, where I study computer science.
 
