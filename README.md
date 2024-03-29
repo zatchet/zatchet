@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Zach. I like to code.
+
+Check some of my projects below. Others exist too, but are private for academic policy reasons.
+
+
 
 <!--
 **zatchet/zatchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
