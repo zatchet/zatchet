@@ -1,9 +1,5 @@
 ### Hi, I'm Zach. 
 
-I like to code.
-
-I go to Northeastern University in Boston, where I study computer science.
-
 Check out some of my projects below. Others exist too, but are private for academic policy reasons and can be made public upon request.
 
 Have a nice visit!
