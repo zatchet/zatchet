@@ -1,6 +1,6 @@
 ### Hi, I'm Zach. 
 
-Check out some of my projects below. Others exist too, but are private for academic policy reasons and can be made public upon request.
+Check out some of my projects below.
 
 
 
